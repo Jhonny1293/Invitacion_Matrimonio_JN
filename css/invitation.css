@@ -364,6 +364,7 @@ table.vestuary > thead > * > * {
     transform: scale(1.05);
     text-decoration: none;
     text-align: center;
+    text-transform: uppercase;
  }
 
  .btn:hover {
